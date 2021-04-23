@@ -2,3 +2,4 @@
 water 
 air
 fire 
+earth
